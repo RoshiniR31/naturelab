@@ -1,0 +1,14 @@
+<html>
+<frameset cols="15%,*">
+<frameset rows="8%,8%,8%,8%,8%,8%,15%,*">
+<frame src="h.html">
+<frame src="f1.html">
+<frame src="f0.html">
+<frame src="f2.html">
+<frame src="f3.html">
+<frame src="f4.html">
+<frame src="he.html">
+</frameset>
+<frame src=naturelab.html>
+</frameset>
+</html>
